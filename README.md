@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Tarek GuezGuez</h1>
-<h3 align="center">A passionate full stack developer from Tunisia</h3>
+<h3 align="center">A passionate web developer from Tunisia</h3>
 
-
-
-- My Facebook : https://www.facebook.com/tarak.guezguez/
-- My Youtube Channel : https://www.youtube.com/channel/UCCN3FOyDifUTskAlSrnvCTg
-
+- Facebook : https://www.facebook.com/tarak.guezguez
+- GitHub : https://github.com/mohamed-tarek-guezguez
+- LinkedIn : https://www.linkedin.com/in/mohamed-tarek-guezguez
+- Youtube Channel : https://www.youtube.com/channel/UCCN3FOyDifUTskAlSrnvCTg
 
 ![MasterHead](http://www.atozgeeks.co.in/wp-content/uploads/2020/07/website-design-in-india-1.gif)
  
-<h1 align="center">Hi 👋, I'm Mohamed Hedi ben Jdida</h1>
-<h3 align="center">A passionate full stack developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamahedi&label=Profile%20views&color=0e75b6&style=flat" alt="hamahedi" /> </p>
