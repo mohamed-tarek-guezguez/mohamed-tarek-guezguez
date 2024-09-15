@@ -4,14 +4,13 @@
 <br />
 
 ## 🌐 Find Me On
-
-[![LinkedIn: Mohamed Tarek GuezGuez🇵🇸🇹🇳](https://img.shields.io/badge/-mohamed-tarek-guezguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=mohamed-tarek-guezguez)](https://www.linkedin.com/in/mohamed-tarek-guezguez%F0%9F%87%B5%F0%9F%87%B8%F0%9F%87%B9%F0%9F%87%B3-6bbb17253/)
-
-
-- Facebook : https://www.facebook.com/tarak.guezguez
-- GitHub : https://github.com/mohamed-tarek-guezguez
 - LinkedIn : https://www.linkedin.com/in/mohamed-tarek-guezguez
+- GitHub : https://github.com/mohamed-tarek-guezguez
 - Youtube Channel : https://www.youtube.com/channel/UCCN3FOyDifUTskAlSrnvCTg
+- Facebook : https://www.facebook.com/tarak.guezguez
+
+
+
 
 <br />
 
