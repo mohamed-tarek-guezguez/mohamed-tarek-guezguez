@@ -24,10 +24,3 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohamed-tarek-guezguez&theme=radical)](https://github.com/mohamed-tarek-guezguez/github-profile-trophy)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-tarek-guezguez&show_icons=true&locale=en&layout=compact" alt="mohamed-tarek-guezguez" /></p>
- 
-[![mohamed-tarek-guezguez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-tarek-guezguez&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
-![mohamed-tarek-guezguez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-tarek-guezguez&theme=vue&hide_border=true)
