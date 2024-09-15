@@ -8,7 +8,6 @@
 - GitHub : https://github.com/mohamed-tarek-guezguez
 - Youtube Channel : https://www.youtube.com/channel/UCCN3FOyDifUTskAlSrnvCTg
 - Facebook : https://www.facebook.com/tarak.guezguez
-- 
 <br />
 
 ![MasterHead](http://www.atozgeeks.co.in/wp-content/uploads/2020/07/website-design-in-india-1.gif)
