@@ -105,16 +105,6 @@ const tarek = {
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamed-tarek-guezguez&theme=tokyonight&no-frame=true&row=1&margin-w=10)](https://github.com/mohamed-tarek-guezguez)
-
-</div>
-
----
-
 <!-- ====================== CONTRIBUTIONS ====================== -->
 ## 🐍 Contribution Graph
 
