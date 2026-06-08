@@ -95,19 +95,6 @@ const tarek = {
 
 ---
 
-<!-- ====================== STATS ====================== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-tarek-guezguez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&ring_color=6366f1&icon_color=06b6d4" alt="Tarek's GitHub stats" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-tarek-guezguez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="170"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Streak
 
 <div align="center">
